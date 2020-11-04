@@ -1,2 +1,2 @@
 print("hello world")
-print("master branch")
+print("stratos branch")
